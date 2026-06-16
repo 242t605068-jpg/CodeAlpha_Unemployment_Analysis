@@ -1,0 +1,17 @@
+# Unemployment Analysis with Python
+
+## Objective
+Analyze unemployment rate trends and study the impact of Covid-19 on unemployment.
+
+## Libraries Used
+- Pandas
+- Matplotlib
+
+## Tasks Performed
+- Data Cleaning
+- Data Exploration
+- Trend Visualization
+- Covid-19 Impact Analysis
+
+## Conclusion
+The unemployment rate increased significantly during the Covid-19 period and later showed recovery trends.
